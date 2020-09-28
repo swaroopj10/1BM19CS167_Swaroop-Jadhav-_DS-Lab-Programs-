@@ -51,7 +51,7 @@ void push()
 {
     if(top>=n-1)
     {
-        printf("\n\tSTACK is over flow");
+        printf("\n\tStack is over flow");
         
     }
     else
