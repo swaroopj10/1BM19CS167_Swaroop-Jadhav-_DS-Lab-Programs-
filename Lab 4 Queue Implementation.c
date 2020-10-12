@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define MAX 50
+#define MAX 100
 void insert ();
 void delete ();
 void display ();
