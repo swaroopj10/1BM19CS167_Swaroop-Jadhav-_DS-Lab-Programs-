@@ -102,7 +102,7 @@ break;
 case 4:
 break;
 default:
-printf("Wrong choicen");
+printf("Wrong choice\n");
 }
 }while(choice!=4);
 return 0;
